@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <ASOBounceButtonView.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
