@@ -22,7 +22,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="post_1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="wc7-4z-Bxz">
-                                <rect key="frame" x="26" y="219" width="323" height="172"/>
+                                <rect key="frame" x="24" y="66" width="323" height="172"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="post_2.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="shF-dN-GeH">
+                                <rect key="frame" x="24" y="299" width="323" height="170"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -36,5 +40,6 @@
     </scenes>
     <resources>
         <image name="post_1.jpg" width="720" height="482"/>
+        <image name="post_2.jpg" width="720" height="482"/>
     </resources>
 </document>
